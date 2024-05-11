@@ -1,0 +1,8 @@
+In arrays, if i make an array of any size.
+for example :
+int[] arr = new int[50]; //initialization
+arr[0] = 100;
+system.out.print(arr[0]); //here we prints the value of zeroth index, and gets an output of 100.
+                            but if we assign a new value, then
+arr[0] = 99;
+system.out.print(arr[0]); //here we prints the value of zeroth index again then it we gets the output of 99.
