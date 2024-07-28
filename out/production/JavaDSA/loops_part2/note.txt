@@ -1,0 +1,21 @@
+// Unstructured Programming :
+
+1. in unstructured style of programming, large or complex programs are coded as a single continuous
+   block of code. it makes program code hardly readable. Hence, it is difficult to modify and debug.
+2. Support limited basic data types.
+3. Programs are executed sequentially and uses unstructured control statements such as goto.
+4. suitable only for small and simple projects.
+5. Example, earlier versions of Basic, Cobol and Fortran.
+
+// Structured Programming :
+
+1. In Structured Programming, large or complex programs are converted into smaller blocks of code so that
+   managing the code becomes easy. Producing readable code.
+2. Hence, it is easier to modify and debug. Supports variety of Data types.
+3. Programs are executed Sequentially and uses Structured control statements such as if/else/for/while/etc.
+4. Suitable for large and complex Projects.
+5. These blocks of code are implemented as functions.
+6. Therefore, a function is a block of code or collection of statements grouped together to perform a certain
+   tasks or operation.
+7. However, the block of code only runs/executes when the function is called.
+8. Example, C,C++, Visual Basic, etc.
